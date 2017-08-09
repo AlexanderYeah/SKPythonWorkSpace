@@ -1,0 +1,10 @@
+(lp0
+S'orange'
+p1
+aF6.88
+aI999
+a(lp2
+I2
+aI3
+aI4
+aa.
