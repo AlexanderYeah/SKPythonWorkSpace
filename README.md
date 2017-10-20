@@ -15,4 +15,5 @@
 12 -- 8.14号 模块的初识，引用 搜索路径  
 13 -- 8.17号 刚刚康复，休息中。。。。，怕自己中断，还是来打个卡。然后明天继续  
 14 -- 10.19号 back to study py again，take a rest，learn urllib today   
-15 -- 10.19号 继续urllib 的学习，翻译文本Demo的编写
+15 -- 10.19号 继续urllib 的学习，翻译文本Demo的编写  
+16 -- 10.20号 continue .. 修改header 的User-Agent，伪装成机器来源
