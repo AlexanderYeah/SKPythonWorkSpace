@@ -18,3 +18,4 @@
 15 -- 10.19号 继续urllib 的学习，翻译文本Demo的编写  
 16 -- 10.20号 continue .. 修改header 的User-Agent，伪装成机器来源  
 17 -- 10.20号 使用代理或者延时请求。
+18 -- 10.21号 BeautifulSoup 的学习
